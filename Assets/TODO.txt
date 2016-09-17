@@ -1,0 +1,25 @@
+Basic:
+  - Items to add
+    - Ghost item
+    - A knife that gets trapped in the body and cut the sausages in the map
+  - Add support to Game pad
+  - Add some obstacle on the map
+Medium:
+  - Improve Graphics
+  - Add support to more than 2 local players. from 2 to 8 or more players on the same computer
+  - Improve canvas
+  - Improve mine map
+  - Improve and add more sounds
+  - Add menus
+    - Main menu
+    - Maybe some king of pause
+    - Options menu. Simple
+
+Hard:
+  - Add mobile support
+	
+Advanced:
+  - Add bot(s)
+  - Add on-line playing
+  - Add control keys configuration
+  
